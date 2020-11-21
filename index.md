@@ -1,4 +1,6 @@
 
+# Ray's page!
+# Welcome to my blog!
 I'm glad you are here.
 # Me
 Github: https://github.com/RayFB-13/
