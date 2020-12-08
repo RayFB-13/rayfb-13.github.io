@@ -7,5 +7,5 @@ For Schools
 
 [PhysEd (gonoodle)](http://gonoodle.com/)
 
-[Coding](http://Rayfb-13.github.io/schools/Coding)
+[Coding](http://Rayfb-13.github.io/Coding)
 
