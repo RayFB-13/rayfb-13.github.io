@@ -1,7 +1,7 @@
 ---
 permalink: /schools/channels
 ---
-For Schools/channels
+For Schools/Channels
 
 [<--- Back](https://rayfb-13.github.io/schools)
 
