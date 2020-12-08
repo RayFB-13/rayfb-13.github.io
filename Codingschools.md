@@ -1,5 +1,5 @@
 ---
-permalink: /schools/Coding
+permalink: /Coding
 ---
 For Schools/Coding
 
