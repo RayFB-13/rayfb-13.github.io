@@ -9,3 +9,4 @@ For Schools
 
 [Coding](http://Rayfb-13.github.io/Coding)
 
+[Channels](http://Rayfb-13.github.io/schools/channels)
