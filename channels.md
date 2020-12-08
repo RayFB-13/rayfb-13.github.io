@@ -3,7 +3,7 @@ permalink: /schools/channels
 ---
 For Schools/channels
 
-[<--- Back](https://rayfb-13.github.io/schools/)
+[<--- Back](https://rayfb-13.github.io/schools)
 
 [scishowkids (science )](https://www.youtube.com/user/scishowkids)
 
