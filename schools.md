@@ -1,7 +1,7 @@
 ---
 permalink: /schools
 ---
-For Schools
+Links for Schools
 
 [online schools (google classroom)](http://classroom.google.com/)
 
