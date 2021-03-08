@@ -1,0 +1,23 @@
+---
+permalink: /rhtml.html
+---
+<!DOCTYPE HTML>
+<html>
+<head>
+   <title>Rclick</title>
+   
+   <script>
+    function R() {
+	     var lol = "R";
+		 alert(lol)
+	     var newitem = document.createElement("div");
+		 newitem.innerHTML = "R";
+		 document.getElementById("list").appendChild(newitem);
+	}
+   </script>
+</head>
+<body>
+   <input type="button" value="R" onclick="R();"/>
+   <div id="list"></div>
+</body>
+</html>
